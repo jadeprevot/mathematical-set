@@ -6,7 +6,7 @@ Ensemble::Ensemble(unsigned int cardMax){
   pcardMax = cardMax;
   pcardAct = 0;
   pt = new int [cardMax];
-} //constructeurs
+}
 
 Ensemble::Ensemble(int t[], unsigned int nbElements){
   pt = new int [nbElements];
