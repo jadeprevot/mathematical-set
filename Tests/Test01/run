@@ -1,0 +1,4 @@
+g++ -c -DTU01 ../../Ensemble.cpp;
+g++ -o TU01 TestUnitaireEnsemble.o Ensemble.o;
+./TU01
+

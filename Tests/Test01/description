@@ -1,0 +1,3 @@
+test1.0: constructeur par defaut sans dimension
+test1.1: constructeur avec une dimension passée en paramètre
+test1.2: constructeur avec une dimension egale a 0
