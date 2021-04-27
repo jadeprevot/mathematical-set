@@ -34,7 +34,7 @@ class Ensemble
   private :
 
   bool estPresent(const int t[], int taille, int valeur) const;
-  void trieMoiCa() const; //toutes les méthodes ont this en param implicite
+  void trieMoiCa() const;
   int trouveElement(int t[], int taille, int element) const;
 
   unsigned int pcardMax;
